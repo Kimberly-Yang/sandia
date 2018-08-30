@@ -1,3 +1,8 @@
 Sandia National Laboratories, New Mexico Affiliation ID: 60007843
 Sandia National Laboratories, California Affiliation ID: 60015900
 Sandia National Laboratories NM, United States Affiliation ID: 60014682
+
+( AF-ID ( "Sandia National Laboratories New Mexico"   60007843 )  OR  AF-ID ( "Sandia National Laboratories California"   60015900 )  OR  AF-ID ( "Sandia National Laboratories"   60014682 ) )  AND  ( PUBYEAR  =  2016 )  AND NOT  ( DOCTYPE ( er )  OR  DOCTYPE ( ed ) ) 
+yields 1512 results
+
+( AF-ID ( "Sandia National Laboratories New Mexico"   60007843 )  OR  AF-ID ( "Sandia National Laboratories California"   60015900 )  OR  AF-ID ( "Sandia National Laboratories"   60014682 ) )  AND  ( PUBYEAR  =  2017 )  AND NOT  ( DOCTYPE ( er )  OR  DOCTYPE ( ed ) ) 
